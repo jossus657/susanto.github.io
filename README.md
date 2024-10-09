@@ -9,6 +9,10 @@ This portfolio is a compilation of notebooks and projects for organizational and
 
 ## Classification Algorithms
 
+### Machine Learning-Based Sentiment Prediction for Movie Reviews
+
+A project that takes 50,000 IMDb movie reviews and uses various machine learning models to predict the review sentiment. I conducted in-depth analysis on a diverse set of 50,000 IMDb movie reviews, employing advanced NLP techniques for accurate sentiment prediction. I aimed to highlight two different methods in creating a feature dictionary: one utilizing term frequency-inverse document frequency (TF-IDF) and another using an outside resource in the form of a preset [sentiment lexicon dictionary] (https://www.kaggle.com/datasets/nltkdata/opinion-lexicon). With these two foundations I systematically compared and contrasted the efficacy of multiple machine learning models on the data, including Logistic Regression, Linear Discriminant Analysis (LDA), Quadratic Discriminant Analysis (QDA), and K Nearest Neighbors (KNN). Multiple different machine learning techniques were implemented to explore and highlight their strenghts, weaknesses, and their most useful scenarios. Doing so allowed me to demonstrate my knowledge of these techniques and proficiency in model selection. Additionally, I rigorously evaluated model performance through comprehensive classification reports and computation time analyses, highlighting a results-oriented approach and commitment to delivering impactful insights.
+
 ## Regression 
 
 ## Natural Language Processing
